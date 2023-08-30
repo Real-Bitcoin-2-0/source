@@ -9,6 +9,7 @@ Real BTC 2.0 Standard wallet repository
 - PoS Blocks: Starting from 501
 - Block Time: 60 Seconds
 - Maturity: 20 Confirmations
+- Halving each 4 years = 2100000 blocks
   
 - Masternode Collateral: 500 rBTC20
 
