@@ -1,0 +1,11 @@
+[Protocol]
+exec=rBTC20-qt '%u'
+protocol=rBTC20
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

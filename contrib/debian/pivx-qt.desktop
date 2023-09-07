@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=rBTC20
+Comment= rBTC20 P2P Cryptocurrency
+Comment[fr]= rBTC20, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= rBTC20, eşten eşe kriptografik sanal para birimi
+Exec=rBTC20-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=rBTC20-qt
